@@ -1,2 +1,2 @@
 # Indulge
-A Restaurant Blog Website
+A Restaurant Website
