@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "khushi3108",
+      "name": "Khushi Gandhi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/60807052?v=4",
+      "profile": "https://github.com/khushi3108",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Indulge",
+  "projectOwner": "dscigdtuw",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
