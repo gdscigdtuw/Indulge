@@ -5,25 +5,44 @@
 It is a responsive user-friendly <u>Restaurant Website</u> that offers appetizing food contains menu, details and location.
 
 
-## Project Features
+## Project Features:
 1. Chatbot
 2. Downloadable Menu
 3. Dark or Light Mode
 4. Tracable via Google Maps
 
 ## Techstack:
-HTML
-CSS
-Bootstrap
-JavaScript
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
 
 ## WorkFlow - Webpages
-1. HomePage
-2. About Section
-3. Menu
-4. Location and Hours
-5. Contact
-6. Contributors
+* HomePage
+* About Section
+* Menu
+* Location and Hours
+* Contact
+* Contributors
+
+## SiteMap:
+
+# Contributing to OneStopHelp :point_down:
+To contribute to <project_name>, follow these steps:
+
+1. Fork this repository.
+2. Create a branch: git checkout -b <branch_name>.
+3. Make your changes and commit them: git commit -m '<commit_message>'
+4. Push to the original branch: git push origin <project_name>/<location>
+5. Create the pull request.
+Alternatively see the GitHub documentation on [creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+## Project Admins:
+* [@shagun0915](https://github.com/shagun0915)
+* [@raksha009](https://github.com/raksha009)
+
+## Maintainer:
+[DSC-IGDTUW](https://github.com/dscigdtuw)
 
 ## Contributors ✨
 
