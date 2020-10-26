@@ -27,7 +27,7 @@ It is a responsive user-friendly <u>Restaurant Website</u> that offers appetizin
 
 ## SiteMap:
 
-# Contributing to OneStopHelp :point_down:
+## Contributing to Indulge:
 To contribute to <project_name>, follow these steps:
 
 1. Fork this repository.
