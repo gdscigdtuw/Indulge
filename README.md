@@ -30,11 +30,12 @@ It is a responsive user-friendly <u>Restaurant Website</u> that offers appetizin
 ## Contributing to Indulge:
 To contribute to <project_name>, follow these steps:
 
-1. Fork this repository.
-2. Create a branch: git checkout -b <branch_name>.
-3. Make your changes and commit them: git commit -m '<commit_message>'
-4. Push to the original branch: git push origin <project_name>/<location>
-5. Create the pull request.
+1. Star the repository.
+2. Fork this repository.
+3. Create a branch: git checkout -b <branch_name>.
+4. Make your changes and commit them: git commit -m '<commit_message>'
+5. Push to the original branch: git push origin <project_name>/<location>
+6. Create the pull request.
 Alternatively see the GitHub documentation on [creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 ## Project Admins:
