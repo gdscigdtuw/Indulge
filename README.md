@@ -1,6 +1,6 @@
 # Indulge
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 It is a responsive user-friendly <u>Restaurant Website</u> that offers appetizing food contains menu, details and location.
 
@@ -55,6 +55,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/khushi3108"><img src="https://avatars2.githubusercontent.com/u/60807052?v=4" width="100px;" alt=""/><br /><sub><b>Khushi Gandhi</b></sub></a><br /><a href="#design-khushi3108" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/manisha1904"><img src="https://avatars1.githubusercontent.com/u/68684840?v=4" width="100px;" alt=""/><br /><sub><b>Manisha Chaturvedi</b></sub></a><br /><a href="#design-manisha1904" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/aastha271100"><img src="https://avatars2.githubusercontent.com/u/68474035?v=4" width="100px;" alt=""/><br /><sub><b>aastha271100</b></sub></a><br /><a href="#design-aastha271100" title="Design">🎨</a></td>
   </tr>
 </table>
 
