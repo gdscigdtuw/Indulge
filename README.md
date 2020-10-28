@@ -57,6 +57,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/manisha1904"><img src="https://avatars1.githubusercontent.com/u/68684840?v=4" width="100px;" alt=""/><br /><sub><b>Manisha Chaturvedi</b></sub></a><br /><a href="#design-manisha1904" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/muskaanv0"><img src="https://avatars2.githubusercontent.com/u/62637855?v=4" width="100px;" alt=""/><br /><sub><b>muskaanv0</b></sub></a><br /><a href="#design-muskaanv0" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/aastha271100"><img src="https://avatars2.githubusercontent.com/u/68474035?v=4" width="100px;" alt=""/><br /><sub><b>aastha271100</b></sub></a><br /><a href="#design-aastha271100" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/nporia"><img src="https://avatars2.githubusercontent.com/u/20817990?v=4" width="100px;" alt=""/><br /><sub><b>nporia</b></sub></a><br /><a href="#design-nporia" title="Design">🎨</a></td>
+
   </tr>
 </table>
 
