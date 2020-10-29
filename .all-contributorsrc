@@ -1,0 +1,62 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "khushi3108",
+      "name": "Khushi Gandhi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/60807052?v=4",
+      "profile": "https://github.com/khushi3108",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "manisha1904",
+      "name": "Manisha Chaturvedi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/68684840?v=4",
+      "profile": "https://github.com/manisha1904",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "nporia",
+      "name": "nporia",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/20817990?v=4",
+      "profile": "https://github.com/nporia",
+      "contributions": [
+      "design"
+      ]
+    },
+    {
+
+      "login": "muskaanv0",
+      "name": "muskaanv0",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/62637855?v=4",
+      "profile": "https://github.com/muskaanv0",
+contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "aastha271100",
+      "name": "aastha271100",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/68474035?v=4",
+      "profile": "https://github.com/aastha271100",
+
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Indulge",
+  "projectOwner": "dscigdtuw",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
