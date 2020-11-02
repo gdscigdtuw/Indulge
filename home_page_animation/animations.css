@@ -1,0 +1,44 @@
+
+html,body{
+text-align: center;
+  height: 100%;
+  background-image: url("C:/Users/HP/OneDrive/Desktop/ani.gif");
+  background-size:cover;
+
+  background-position: center;
+  background-repeat:no-repeat;
+ opacity:50;
+}
+.indulge{
+  image-resolution:from-image;
+}
+/*image{
+  width: 100%;
+  height: 100%;
+}
+*/
+.when{
+  text-align: left;
+  bottom:15px;
+  left: 0;
+  position: absolute;
+  color: white;
+
+  font-size:20px;
+
+}
+.add{
+  text-align: center;
+  color: white;
+  position: relative;
+bottom:-10px;
+  font-size:20px;
+}
+.subscribe{
+  text-align: right;
+  color: white;
+font-size: 20px;
+position: relative;
+bottom:50px;
+
+}
