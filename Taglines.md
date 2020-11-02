@@ -1,0 +1,5 @@
+## TAGLINES
+
+**FORMAT** <br>
+_WRITE YOUR NAME_ <br>
+_WRITE YOUR TAGLINES_ <br>
