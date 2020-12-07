@@ -1,0 +1,145 @@
+body{
+	background-image: url(im/bg2.jpg);
+	  color: black;
+	  background-repeat: no-repeat;
+      background-size: cover;
+      /*font-family: 'Montserrat', sans-serif;*/
+      color: white;
+      background-position: fixed;k
+}
+
+.but{
+	float: left;
+	margin-right: 20%;
+	margin-bottom: 2%;
+	background-color: rgb(255,255,,255);
+	color: black;
+}
+
+
+.btn-lg:hover{
+  background-color: red;
+}
+
+h1{
+	color: white;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-shadow: 2px 2px 4px #000000;
+	letter-spacing: 1px;
+}
+
+h3{
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+
+hr{
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom:1px solid rgba(0,0,0,.2);
+}
+
+.content{
+	color: white;
+}
+
+.social{
+	/*border-bottom: 2px solid red;*/
+	width: 30%;
+	padding-bottom: 3%;
+}
+
+a{
+	display: inline-block;
+	margin: 5%;
+	font-size:25px;
+	color: white;
+	transition: transform .2s; 
+}
+
+.wrap{
+	/*float: left;*/
+	/*width: 33%;*/
+	/*border: 1px solid red;*/
+	/*margin: 20px 50px;*/
+   
+	width: 30%;
+	float: left;
+    margin: 1.66%;
+    /*align-content: center;*/
+    text-align: center;
+    background-color: rgba(0,0,0,0.3);
+    color: white;
+    border-radius: 20px;
+
+
+}
+
+
+#conOne{
+	width: 40%;
+	padding-left: 50px;
+	padding-right: 50px;
+	float: left;
+	background-color: rgba(0,0,0,0.3);
+    margin: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    /*margin-ri: 5%;*/
+    border-radius: 20px;
+}
+
+#conTwo{
+	width: 40%;
+	padding-left: 50px;
+	padding-right: 50px;
+background-color: rgba(0,0,0,0.3);
+	float: left;
+    margin: 5%;
+    border-radius: 20px;
+        margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#formButton1 {
+	background-color: black;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#formButton2 {
+	background-color: black;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#form1{
+	display: none;
+}
+
+#form2{
+   display: none;	
+}
+
+#box{
+	display: flex;
+}
+
+
+.wrap:hover{
+	background-color: rgba(0,0,0,0.7);
+    -webkit-transform: scale(1.2);
+}
+
+a:hover{
+   color: red;
+   font-size: 40px;
+   margin: 0;
+   -webkit-transform: scale(1.2);
+}
+
