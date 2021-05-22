@@ -1,1 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Manrope&family=Pattaya&display=swap');
+body {
+  margin: 0;
+  padding: 0;
+}
+#intro {
+  height: 100vh;
+  background-image: linear-gradient(
+      rgba(52, 73, 94, 0.6),
+      rgba(52, 73, 94, 0.6)
+    ),
+    url(/imgs/intro-bg.jpg);
+  background-size: cover;
 
+  margin: 0;
+  background-attachment: fixed;
+}
+.title {
+  top: 30%;
+  left: 40%;
+  position: absolute;
+  padding: 10px;
+  text-align: center;
+  display: inline-block;
+  color: whitesmoke;
+}
+.title h1{
+    font-family: 'Manrope', sans-serif;
+    font-size: 80px;
+    margin: 0;
+}
+.title h5{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 40px;
+    margin: 0;
+}
