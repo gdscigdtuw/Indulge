@@ -1,14 +1,41 @@
 @import url("https://fonts.googleapis.com/css2?family=Manrope&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Manrope&family=Pattaya&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Manrope&family=Pattaya&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Parisienne&display=swap");
 body {
   margin: 0;
   padding: 0;
 }
+nav ul{
+  background-color: rgb(49, 48, 48);
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  list-style-type: none;
+}
+nav ul li{
+  float: left;
+  font-family: "Manrope", sans-serif;
+}
+nav ul li a{
+  padding: 14px 40px;
+  text-decoration: none;
+  color: whitesmoke;
+  display: block;
+  text-align: center;
+}
+nav ul li a:hover{
+  background-color: #111;
+}
+nav ul li a:active{
+  background-color: whitesmoke;
+  color: #111;
+}
+
 #intro {
   height: 100vh;
   background-image: linear-gradient(
-      rgba(52, 73, 94, 0.6),
-      rgba(52, 73, 94, 0.6)
+      rgba(46, 54, 61, 0.479),
+      rgba(46, 54, 61, 0.479)
     ),
     url(/imgs/intro-bg.jpg);
   background-size: cover;
@@ -25,13 +52,14 @@ body {
   display: inline-block;
   color: whitesmoke;
 }
-.title h1{
-    font-family: 'Manrope', sans-serif;
-    font-size: 80px;
-    margin: 0;
+.title h1 {
+  font-family: "Manrope", sans-serif;
+  font-size: 80px;
+  margin: 0;
+  font-weight: bolder;
 }
-.title h5{
-    font-family: 'Pattaya', sans-serif;
-    font-size: 40px;
-    margin: 0;
+.title h5 {
+  font-family: "Parisienne", cursive;
+  font-size: 50px;
+  margin: 0;
 }
