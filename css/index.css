@@ -37,9 +37,8 @@ nav ul li a:active{
       rgba(46, 54, 61, 0.479),
       rgba(46, 54, 61, 0.479)
     ),
-    url(/imgs/intro-bg.jpg);
+    url("intro-bg.jpg");
   background-size: cover;
-
   margin: 0;
   background-attachment: fixed;
 }
@@ -57,9 +56,25 @@ nav ul li a:active{
   font-size: 80px;
   margin: 0;
   font-weight: bolder;
+  padding-bottom: 10px;
 }
 .title h5 {
   font-family: "Parisienne", cursive;
   font-size: 50px;
   margin: 0;
+}
+.title .order-button a{
+  border: whitesmoke solid 1.5px;
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 7px;
+  font-size: 20px;
+  margin-top: 10px;
+  font-family: "Manrope", sans-serif;
+}
+.title .order-button a:hover{
+background-color: #111;
+color: whitesmoke;
+border: #111 solid 1.5px;
+transition:  .8s;
 }
