@@ -6,7 +6,6 @@ body {
   padding: 0;
 }
 nav ul{
-  background-color: rgb(49, 48, 48);
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -17,11 +16,12 @@ nav ul li{
   font-family: "Manrope", sans-serif;
 }
 nav ul li a{
-  padding: 14px 40px;
+  padding: 10px 20px;
   text-decoration: none;
   color: whitesmoke;
   display: block;
   text-align: center;
+  font-size: 14px;
 }
 nav ul li a:hover{
   background-color: #111;
@@ -34,10 +34,10 @@ nav ul li a:active{
 #intro {
   height: 100vh;
   background-image: linear-gradient(
-      rgba(46, 54, 61, 0.479),
-      rgba(46, 54, 61, 0.479)
+      rgba(46, 54, 61, 0.685),
+      rgba(46, 54, 61, 0.699)
     ),
-    url("intro-bg.jpg");
+    url("bg.jpg");
   background-size: cover;
   margin: 0;
   background-attachment: fixed;
@@ -51,12 +51,18 @@ nav ul li a:active{
   display: inline-block;
   color: whitesmoke;
 }
-.title h1 {
-  font-family: "Manrope", sans-serif;
-  font-size: 80px;
-  margin: 0;
-  font-weight: bolder;
-  padding-bottom: 10px;
+.logo{
+  max-width: 100px;
+  filter: invert(1);
+  animation: logo 1s ease-out;
+}
+@keyframes logo {
+  0%{
+    transform: scale(0.1);
+  }
+  100%{
+    transform: scale(1);
+  }
 }
 .title h5 {
   font-family: "Parisienne", cursive;
@@ -73,8 +79,8 @@ nav ul li a:active{
   font-family: "Manrope", sans-serif;
 }
 .title .order-button a:hover{
-background-color: #111;
+background-color: rgba(46, 54, 61, 0.685);
 color: whitesmoke;
-border: #111 solid 1.5px;
+border: rgba(46, 54, 61, 0.685) solid 1.5px;
 transition:  .8s;
 }
