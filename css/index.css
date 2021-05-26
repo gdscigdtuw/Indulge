@@ -10,6 +10,7 @@ nav ul{
   padding: 0;
   overflow: hidden;
   list-style-type: none;
+  padding-top: 20px;
 }
 nav ul li{
   float: left;
