@@ -38,7 +38,7 @@ nav ul li a:active{
       rgba(46, 54, 61, 0.685),
       rgba(46, 54, 61, 0.699)
     ),
-    url("bg.jpg");
+    url("/imgs/bg.jpg");
   background-size: cover;
   margin: 0;
   background-attachment: fixed;
