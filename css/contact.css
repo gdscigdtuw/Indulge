@@ -1,0 +1,159 @@
+body{
+	background-image: url(../imgs/food.jpg);
+	  color: black;
+	  background-repeat: no-repeat;
+      background-size: cover;
+      color: white;
+      background-position: fixed;
+      background-attachment: fixed;
+}
+
+.but{
+	/*float: left;*/
+	margin-right: 20%;
+	margin-bottom: 2%;
+	background-color: rgb(255,255,,255);
+	color: black;
+}
+
+h1{
+	/*color: rgb(229, 229, 204);*/
+	color: rgb(246, 246, 239);
+	font-weight: bold;
+	text-transform: uppercase;
+	text-shadow: 2px 2px 4px #000000;
+	letter-spacing: 0.1em;
+}
+
+
+h3{
+	color: white;
+	/*color: rgb(246, 246, 239);*/
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+
+hr{
+	width: 40%;
+	border-top: 1px solid #f8f8f8;
+	border-bottom:1px solid rgba(0,0,0,.2);
+}
+
+.content{
+	/*color: rgb(246, 246, 239);*/
+	text-shadow: 2px 2px 4px #000000;
+	text-align: center;
+}
+
+.social{
+	width: 30%;
+	padding-bottom: 3%;
+}
+
+a{
+	display: inline-block;
+	margin: 5%;
+	font-size: 2.5rem;
+	color: white;
+	transition: transform .2s; 
+}
+
+a:hover{
+   color: red;
+   font-size: 4rem;
+   margin: 0;
+   -webkit-transform: scale(1.2);
+}
+
+.wrap{
+	width: 30%;
+	float: left;
+    margin: 1.66%;
+    text-align: center;
+    background-color: rgba(0,0,0,0.3);
+    color: white;
+	/*color: rgb(246, 246, 239);*/
+    border-radius: 20px;
+    font-size: 1.3rem;
+}
+
+.wrap:hover{
+	background-color: rgba(0,0,0,0.7);
+    -webkit-transform: scale(1.2);
+}
+
+
+#conOne{
+	width: 45%;
+	/* padding-left: 50px;
+	padding-right: 50px; */
+	background-color: rgba(0,0,0,0.3);
+    /* margin: 5%; */
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 20px;
+}
+
+#conTwo{
+	width: 45%;
+	/* padding-left: 50px;
+	padding-right: 50px; */
+	float: right;
+    background-color: rgba(0,0,0,0.3);
+	/* float: left; */
+    /* margin: 5%; */
+    border-radius: 20px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-bottom: 5%;
+}
+
+#formButton1 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#formButton2 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+/* 
+#box{
+	display: flex;
+} */
+
+@media only screen and (max-width: 800px) {
+	#conOne{
+		margin: auto;
+		width: 75%;
+		
+	}
+	
+	#conTwo{
+		margin: auto;
+		width: 75%;
+		float: none;
+		
+	}
+	body {
+	  /*background-color: lightblue;*/
+	  font-size: 12px;
+	}
+  }
+
+  #form1{
+	display: none;
+}
+
+#form2{
+   display: none;	
+}
+  
+
+
+
