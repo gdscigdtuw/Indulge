@@ -1,1 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope&family=Pattaya&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Parisienne&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+}
+nav ul{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  list-style-type: none;
+  padding-top: 20px;
+}
+nav ul li{
+  float: left;
+  font-family: "Manrope", sans-serif;
+}
+nav ul li a{
+  padding: 10px 20px;
+  text-decoration: none;
+  color: whitesmoke;
+  display: block;
+  text-align: center;
+  font-size: 14px;
+}
+nav ul li a:hover{
+  background-color: #111;
+}
+nav ul li a:active{
+  background-color: whitesmoke;
+  color: #111;
+}
 
+#intro {
+  height: 100vh;
+  background-image: linear-gradient(
+      rgba(46, 54, 61, 0.685),
+      rgba(46, 54, 61, 0.699)
+    ),
+    url("bg.jpg");
+  background-size: cover;
+  margin: 0;
+  background-attachment: fixed;
+}
+.title {
+  top: 30%;
+  left: 40%;
+  position: absolute;
+  padding: 10px;
+  text-align: center;
+  display: inline-block;
+  color: whitesmoke;
+}
+.logo{
+  max-width: 100px;
+  filter: invert(1);
+  animation: logo 1s ease-out;
+}
+@keyframes logo {
+  0%{
+    transform: scale(0.1);
+  }
+  100%{
+    transform: scale(1);
+  }
+}
+.title h5 {
+  font-family: "Parisienne", cursive;
+  font-size: 50px;
+  margin: 0;
+}
+.title .order-button a{
+  border: whitesmoke solid 1.5px;
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 7px;
+  font-size: 20px;
+  margin-top: 10px;
+  font-family: "Manrope", sans-serif;
+}
+.title .order-button a:hover{
+background-color: rgba(46, 54, 61, 0.685);
+color: whitesmoke;
+border: rgba(46, 54, 61, 0.685) solid 1.5px;
+transition:  .8s;
+}
