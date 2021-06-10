@@ -1,0 +1,32 @@
+* {
+    color:white;
+    font-family: 'StRydeRegular', cursive;
+    margin: 0;
+    padding: 0;
+    text-align:center;
+    font-size: 1.18rem;
+  }
+  .working-hours{
+      background-color:#2A0A49;
+  }
+  .location{
+      background-color:#472383;
+  }
+  h1{
+    font-size: 3rem;
+    padding:2%;
+  }
+  address{
+    margin:2%;
+  }
+  table{
+    margin:3% auto;
+  }
+img{
+    height:40px;
+    width:40px;
+}
+img:hover{
+    height:42px;
+    width:42px;    
+}
