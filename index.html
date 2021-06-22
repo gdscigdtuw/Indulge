@@ -1,29 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Indulge-HomePage</title>
-    <link rel="stylesheet" href="css/index.css" />
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="/css/index.css" />
+
+    <title>Indulge</title>
   </head>
   <body>
-    <div id="intro">
-      <nav>
-        <ul>
-          <li><a href="#">HOME</a></li>
-          <li><a href="#">MENU</a></li>
-          <li><a href="#">ABOUT</a></li>
-          <li><a href="#">LOCATION & HOURS</a></li>
-          <li style="float: right"><a href="#">CONTACT</a></li>
-          <li style="float: right"><a href="#">CONTRIBUTERS</a></li>
-        </ul>
-      </nav>
-      <div class="title">
-        <img class="logo" src="./imgs/fork.png" />
-        <h5>The Indulge</h5>
-        <div class="order-button"><a href="#">Order Now</a></div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-transparent mt-3">
+      <div class="container-fluid">
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0" style="font-size: 14px">
+            <li class="nav-item px-2">
+              <a class="nav-link active" aria-current="page" href="index.html">HOME</a>
+            </li>
+            <li class="nav-item px-2">
+              <a class="nav-link" href="#">MENU</a>
+            </li>
+            <li class="nav-item px-2">
+              <a class="nav-link" href="about.html">ABOUT</a>
+            </li>
+            <li class="nav-item px-2">
+              <a class="nav-link" href="#">LOCATION & HOURS</a>
+            </li>
+          </ul>
+          <ul class="navbar-nav px-2">
+            <li class="nav-item justify-content-end">
+              <a class="nav-link" href="#">CONTRIBUTERS</a>
+            </li>
+            <li class="nav-item justify-content-end px-2">
+              <a class="nav-link" href="#">CONTACT US</a>
+            </li>
+          </ul>
+        </div>
       </div>
+    </nav>
+    <div class="container">
+      <img
+        src="./imgs/fork.png"
+        class="logo img-fluid"
+        alt="Responsive image"
+        style="margin-left: 48%; margin-top: 10%"
+      />
+      <h1
+        style="
+          margin-left: 42%;
+          margin-top: 10px;
+          font-family: Parisienne, cursive;
+          font-size: 50px;
+          color: whitesmoke;
+        "
+      >
+        The Indulge
+      </h1>
+      <button
+        type="button"
+        class="btn"
+        style="margin-top: 10px; display: block; margin-left: 48%"
+      >
+        Order Now
+      </button>
     </div>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>
